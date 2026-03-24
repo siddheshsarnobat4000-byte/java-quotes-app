@@ -56,13 +56,21 @@ project-root/
 │   └── myapp.jar (if using Maven build)
 ```
 
+## Screenshots 📸
+
+<img width="1919" height="976" alt="Screenshot 2026-03-24 195317" src="https://github.com/user-attachments/assets/4542a4cf-4fac-445e-9e6f-4f14a169c69e" />
+
+<img width="1816" height="959" alt="Screenshot 2026-03-24 200847" src="https://github.com/user-attachments/assets/3fe26434-9f0b-4161-b68f-b8ead450c9be" />
+
+<img width="1919" height="452" alt="Screenshot 2026-03-24 201639" src="https://github.com/user-attachments/assets/05799c5c-5bfa-4fec-a8aa-830593496405" />
+
+
 ## Customizing Quotes
 To customize the quotes, edit `quotes.txt` and restart the application. Each quote should be on a new line.
 
 ## License
 This project is licensed under the MIT License.
 
-## Author
-[TrainWithShubham](https://github.com/LondheShubham153)
+
 
 
