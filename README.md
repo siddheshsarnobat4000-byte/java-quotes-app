@@ -1,5 +1,5 @@
-# Java Motivational Quotes App
 
+# Java Motivational Quotes App
 This project is a simple Java-based HTTP server that serves random motivational quotes via a REST API. The quotes are externalized to a `quotes.txt` file for easy customization.
 
 ## Features
@@ -18,7 +18,7 @@ This project is a simple Java-based HTTP server that serves random motivational 
 ### Running Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/LondheShubham153/java-quotes-app.git
+   git clone git@github.com:siddheshsarnobat4000-byte/java-quotes-app.git
    cd java-quotes-app
    ```
 2. Ensure `quotes.txt` exists in the project directory and contains quotes (one per line).
